@@ -82,3 +82,11 @@ src/
 - Add user authentication to secure data access.
 - Support multiple devices with unique channels.
 - Enhance visualization with additional metrics (e.g., z-axis).
+
+
+
+
+
+
+Below is the circuit which was used to build this project, the sensor responsible is the Flex sensor, which detects the tilt angle.
+![WhatsApp Image 2025-04-18 at 13 59 51_7da3eb7c](https://github.com/user-attachments/assets/d4e3e0d9-9053-4bbf-b53d-f2884600bd12)
