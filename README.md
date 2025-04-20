@@ -138,6 +138,6 @@ An image showing the correct posture detected by the application:
 
 **Posture Status: Full Bent Posture**  
 An image showing a full-bent posture detected by the application:  
-![Full Bent Posture](https://github.com/user-attachments/assets/placeholder.jpg)
+![WhatsApp Image 2025-04-17 at 10 16 01_2751aa47](https://github.com/user-attachments/assets/e17b0336-f1fa-4856-816d-3366c203107b)
 
 
